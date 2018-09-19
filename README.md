@@ -27,7 +27,7 @@
 下载本项目
 
 ```
-> git clone https://github.com/iammapping/wedding
+> git clone https://github.com/hikarisxg/wedding
 ```
 
 到项目根目录初始化：`npm install`
