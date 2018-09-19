@@ -380,7 +380,7 @@
           // 设置label标签
           marker.setLabel({
             offset: new AMap.Pixel(-75, -30),
-            content: "PM Infinity婚礼于10月5日晚"
+            content: "婚礼于12月2日11:58"
           });
         }).fail(function() {
 
