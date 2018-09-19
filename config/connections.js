@@ -90,8 +90,8 @@ module.exports.connections = {
   ***************************************************************************/
 
   sequelizeServer: {
-    user: 'xxx',
-    password: 'xxx',
+    user: 'root',
+    password: '890718',
     database: 'my_wedding',
     options: {
       dialect: 'mysql',
